@@ -1,0 +1,101 @@
+Web Developer
+7
+PHP
+HTML
+CSS
+Javascript
+jQuery
+JSON
+SQL
+60000
+Premier Staffing
+Systems Operations Programming
+2
+SQL
+PLC programming
+51000
+Hanford Utilities Board
+Software Engineer
+5
+Java
+Javascript
+PHP
+Python
+SQL
+70000
+CyberCoders
+Front-End Java Software Engineer
+8
+Java
+AJAX
+Javascript
+CSS
+SQL
+SOAP
+REST
+Linux
+70000
+Recruitwise
+Software Engineer
+4
+SOAP
+REST
+Java
+SQL
+65000
+America's Collectibles Network
+Java Developer
+5
+Java
+Oracle
+SQL
+JUnit
+Javadoc
+86770
+Suffolk County Information Technology
+Senior Front End Developer
+6
+HTML
+CSS
+Javascript
+Visual Studio
+REST
+SQL
+75000
+Apex Systems
+Oracle DBA
+5
+Oracle
+SQL
+Unix
+Linux
+Weblogic Server
+80000
+Radio Systems Corporations
+Programmer/Analyst 2
+9
+ASP
+HTML
+CSS
+Javascript
+REST
+AJAX
+JSON
+PHP
+SQL
+50400
+Soliant Health
+Application Developer
+10
+CSS
+HTML
+PHP
+.NET
+SQL
+REST
+JQuery
+Javascript
+Ajax
+Amazon Web Services
+65000
+Malibu Boats
